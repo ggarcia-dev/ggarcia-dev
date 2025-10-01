@@ -8,10 +8,15 @@ Este repositório é meu portfólio de aprendizado e prova de progresso. Aqui, v
 ## Informações...
 
 🖥️ Graduando em Ciência da Computação na Universidade Unimetrocamp.
+
 📖 Estudando: **C e C+**
+
 💭 Possuo conhecimentos básicos nas linguagens: **Java e Python**
+
 🌐 Idiomas: **Inglês avançado e Espanhol básico para o intermediário**
+
 🧧 Atualmente estou estudando japonês por conta própria e futuramente planejo começar aulas de mandarim.
+
 🥠 Faço taiko e sou apaixonado por isso! Gosto de artes marciais e meus gostos para música são diversos.
 
 ## Contatos...
