@@ -14,7 +14,7 @@ Este repositório é meu portfólio de aprendizado e prova de progresso. Aqui, v
 🧧 Atualmente estou estudando japonês por conta própria e futuramente planejo começar aulas de mandarim.
 🥠 Faço taiko e sou apaixonado por isso! Gosto de artes marciais e meus gostos para música são diversos.
 
-## Ideias...
+## Contatos...
 
 Por ser iniciante na área de programação, estou em busca de projetos para trabalhar junto com outras pessoas e conseguir desenvolver tanto soft skills quanto habilidades técnicas. Caso você esteja em busca de alguém para completar a equipe e ajudar em um projeto, e criou interesse no meu perfil, deixarei meu e-mail e linkedin abaixo.
 
